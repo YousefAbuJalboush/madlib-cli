@@ -8,4 +8,4 @@
 
 | Assiment | Links                                                     |
 | -------- | --------------------------------------------------------- |
-| Lab: 03 - Errors, Files, and Packaging  | [PR (1)]() |
+| Lab: 03 - Errors, Files, and Packaging  | [PR (1)](https://github.com/YousefAbuJalboush/madlib-cli/pull/1) |
